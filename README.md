@@ -29,14 +29,10 @@ It is useful for developers, security testers, and system admins to quickly chec
    git clone https://github.com/your-username/ssl-tls.git
    cd ssl-tls
 2.Run the script:
+```
 bash
   python ssl_checker.py example.com
 
-## 🖥️ Sample Output : 
-Domain: example.com\n
-Issuer: DigiCert Inc\n
-Valid From: 2024-01-10\n
-Valid To:   2025-01-09\n
-Protocol:   TLSv1.3
+
 
 
