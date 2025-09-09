@@ -29,9 +29,9 @@ It is useful for developers, security testers, and system admins to quickly chec
    git clone https://github.com/your-username/ssl-tls.git
    cd ssl-tls
 2.Run the script:
-```
-bash
+```bash
   python ssl_checker.py example.com
+
 
 
 
