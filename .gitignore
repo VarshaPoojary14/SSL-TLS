@@ -1,0 +1,3 @@
+*.pcap
+packet_log.txt
+__pycache__/
