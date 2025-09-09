@@ -33,9 +33,10 @@ bash
   python ssl_checker.py example.com
 
 ## 🖥️ Sample Output : 
-Domain: example.com
-Issuer: DigiCert Inc
-Valid From: 2024-01-10
-Valid To:   2025-01-09
+Domain: example.com\n
+Issuer: DigiCert Inc\n
+Valid From: 2024-01-10\n
+Valid To:   2025-01-09\n
 Protocol:   TLSv1.3
+
 
