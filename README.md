@@ -32,5 +32,45 @@ It is useful for developers, security testers, and system admins to quickly chec
 ```bash
   python ssl_checker.py example.com 
 
+🖥️ Output
+
+Example:
+
+Domain: example.com
+Issuer: DigiCert Inc
+Valid From: 2024-01-10
+Valid To:   2025-01-09
+Protocol:   TLSv1.3
+
+📂 Project Structure
+ssl-tls/
+│── ssl_checker.py       # Main Python script
+│── README.md            # Documentation
+│── requirements.txt     # Dependencies (optional)
+
+🔮 Roadmap
+
+ Add JSON/CSV export
+
+ Certificate chain validation
+
+ Automated expiry alerts
+
+🤝 Contributing
+
+Contributions are welcome!
+
+Fork the repository
+
+Create a new branch (feature-xyz)
+
+Commit your changes
+
+Open a Pull Request
+
+📜 License
+
+This project is licensed under the MIT License
+.
 
 
